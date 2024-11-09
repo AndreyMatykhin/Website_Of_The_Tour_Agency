@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (Website_Of_The_Tour_Agency)" project-jdk-type="Python SDK" />
-  <component name="PyPackaging">
-    <option name="earlyReleasesAsUpgrades" value="true" />
+  <component name="Black">
+    <option name="sdkName" value="Python 3.12 (Website_Of_The_Radio_Components_Store) (2)" />
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (Website_Of_The_Radio_Components_Store) (2)" project-jdk-type="Python SDK" />
 </project>
