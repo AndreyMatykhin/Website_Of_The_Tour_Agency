@@ -1,0 +1,26 @@
+{% extends 'mainapp/base.html' %}
+{% load static %}
+{% block content %}
+
+
+    <div class="container mt-3">
+        <div class="row centered">
+            {% for product in list_of_products %}
+
+                <div class="card  col-lg-4" style="width: 16rem;
+                display: flex">
+                    <img src="/media/{{ product.image }}"
+                         class="card-img-top filters__img" alt="...">
+                    <div class="card-body fa fa-align-justify">
+                        <h5 class="card-title">Наименование: {{ product.name|title }}</h5>
+                        <p class="card-text">Тип продукта: {{ product.type_product.type_product }}</p>
+                        <p class="card-text">Цена: {{ product.price }} руб. за единицу.</p>
+                        <a href="{% url 'prods:product' product.pk %}"
+                           class="btn btn-danger">Подробнее</a>
+                    </div>
+                </div>
+
+            {% endfor %}
+        </div>
+    </div>
+{% endblock %}
