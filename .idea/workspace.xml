@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="fe7d589b-dcd8-4f4c-879f-fee561970425" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/market_prj/mainapp/templates/mainapp/includes/inc_menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/market_prj/mainapp/templates/mainapp/includes/inc_menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/market_prj/authapp/templates/authapp/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/market_prj/authapp/templates/authapp/edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/market_prj/authapp/templates/authapp/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/market_prj/authapp/templates/authapp/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/market_prj/market_prj/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/market_prj/market_prj/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/market_prj/market_prj/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/market_prj/market_prj/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
